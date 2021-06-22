@@ -2321,7 +2321,7 @@ header .user-links li a .badge {
     top: 0;
     bottom: 0;
     /*background: rgba(247, 28, 82, 0.6);*/
-    background-image: url("../img/side-menu.jpg");
+    background-image: url("../img/side-menu.png");
     background-size: cover;
     background-position: center;
     z-index: 2032;
@@ -2707,7 +2707,7 @@ header .user-links li a .badge {
 ====================================== */
 
 .main-banner {
-    background-color: #202020;
+    background-color: #ffffff;
     height: 100vh;
 }
 
